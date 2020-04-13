@@ -1,0 +1,52 @@
+	.orange_container{
+		width: 1200px;
+		height: 300px;
+		position: relative;
+		background-color: orange;
+		padding: 50px;
+		box-sizing: border-box;
+		padding-bottom:50px;
+		margin-bottom: 40px;
+	}
+	.yellow_container{
+		width: 600px;
+		height: 150px;
+		padding:20px;
+		float: right;
+		background-color: lightyellow;
+		
+	}
+	.blue_container{
+		margin-right: 20px;
+		margin-bottom: 20px;
+		width: 590px;
+		height: 550px;
+		text-align: center;
+		float: left;
+		background-color: lightblue;
+
+	}
+		
+	.purple_container{
+		width: 590px;
+		text-align: center;
+		float: right;
+		margin-block-start:0;
+		margin-block-end:0;
+		padding:0px;
+
+
+	}
+	.purple{
+		margin-bottom: 50px;
+		height: 150px;
+		display: block;
+		border: 0px solid #009900;
+		background-color: #9876bd;
+		padding: 0;
+		
+		}
+
+	
+		
+		}	
